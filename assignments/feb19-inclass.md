@@ -8,6 +8,4 @@ Feb 19th in class
 the outliers for different distributions (try normal, cauchy, f to start).
 5. How does the mean change for different distributions/sample sizes? Do you notice any patterns?
 6. [Bonus points/take home] Can you think of a method for theoretically correcting for outliers if you didn't see those values?
-
-
-
+7.you can use ML in it.
